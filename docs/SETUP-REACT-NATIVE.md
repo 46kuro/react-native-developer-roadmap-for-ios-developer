@@ -78,3 +78,4 @@ If you want to launch in the other App such as `iTerm`, [this stackoverflow link
 
 * [Official document to setup React Native project](https://reactnative.dev/docs/environment-setup)
 * [anyenv + macOS環境構築](https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c)
+* [NPMとpackage.jsonを概念的に理解する](https://qiita.com/righteous/items/e5448cb2e7e11ab7d477)
