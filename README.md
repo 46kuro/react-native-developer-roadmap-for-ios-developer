@@ -14,7 +14,7 @@ TBD
 
 ### Javascript
 
-TODO
+[JavaScript](./LanguageTraining/Javascript/README.md)
 
 ### Typescript
 
