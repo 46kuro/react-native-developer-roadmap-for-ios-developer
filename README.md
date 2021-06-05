@@ -6,19 +6,13 @@ This is a repository to become React Native developer for iOS developer.
 
 TBD
 
-### React Native Project 
-
-[SETUP-REACT-NATIVE.md](./docs/SETUP-REACT-NATIVE.md).
+### [React Native Project](./docs/SETUP-REACT-NATIVE.md)
 
 ## Launguage
 
-### Javascript
+### [Javascript](./LanguageTraining/Javascript/README.md)
 
-[JavaScript](./LanguageTraining/Javascript/README.md)
-
-### Typescript
-
-TODO
+### [TypeScript](./LanguageTraining/TypeScript/README.md)
 
 ## React Native
 
