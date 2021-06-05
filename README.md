@@ -4,15 +4,15 @@ This is a repository to become React Native developer for iOS developer.
 
 ### Expo Project
 
-TBD
-
 ### [React Native Project](./docs/SETUP-REACT-NATIVE.md)
 
-## Launguage
+## Language
 
 ### [Javascript](./LanguageTraining/Javascript/README.md)
 
 ### [TypeScript](./LanguageTraining/TypeScript/README.md)
+
+## REACT
 
 ## React Native
 
@@ -21,9 +21,18 @@ TBD
 ### IDE
 
 - [VSCode](./Ecosystem/IDE/VSCode.md)
-TODO
 
-### UI
+### API
+
+### Storybook
+
+### Test
+
+### List/Format
+
+#### Prettier
+
+### CI/CD
 
 [UI](docs/UI.md)
 
